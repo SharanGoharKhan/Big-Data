@@ -1,0 +1,35 @@
+Name: Sharan Gohar Khan
+Roll No: i16-1064
+
+Distributed Data Engineering - Assignment 1&2 
+
+Submission Deadline: 15/09/2017 - Only SLATE submissions accepted
+
+Instructions: 
+
+You need to write MapReduce Java program for each of the queries below. The attached dataset needs to be present on HDFS and your submission should include following things: 
+
+A document containing answers you were able to extract for the queries posed. You also need to detail the steps needed to run the queries. 
+Source classes, organized in packages and the corresponding JAR files. 
+If a query cannot be addressed using MapReduce and/or is missing information, you need to justify your answer about what exactly is needed and missing. 
+
+
+Q1: In reference to IMDB 5000 Movie Dataset (movies.csv), answer following queries: 
+
+
+1.1 How many movies are more than 100minutes long?
+2845 
+1.2 What is the average IMDB Score by Genres/Director/year/ContentRating?
+See Output of A1Q1P2
+1.3 Number of films that have grossed less than their budgets by year?
+See Output of A1Q1P3
+1.4 Which countries make the best grossing movies?
+See Output of A1Q1P4
+Q2: In reference to the Global Terrorism Dataset (terrorism.csv) containing terrorist attacks worldwide between year 1970 and 2016, answer the following queries: 
+
+2.1 Total number of attacks per year?
+See Output of A1Q2P1
+2.2 Average number of terrorist attacks by Year/Country/Target/Weapon?
+See Output of A1Q2P2
+2.3 For Pakistan, the year with most casualties?
+See Output of A1Q2P3
